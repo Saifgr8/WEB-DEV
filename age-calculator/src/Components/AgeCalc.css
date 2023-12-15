@@ -1,0 +1,32 @@
+.AgeDiv{
+    height: 500px;
+    width: 500px;
+    border: solid black;
+    text-align: center;
+  
+
+}
+
+.TopDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+.inputBox{
+    margin-top: 100px;
+    height: 50px;
+    width: 300px;
+}
+.button{
+    margin-top: 50px;
+    height: 40px;
+    width: 200px;
+}
+.Result{
+    height: 50px;
+    width: 200px;
+text-align: center;
+margin-left: 20px;
+}
