@@ -1,0 +1,35 @@
+.App{
+  height: 505px;
+  width: 400px;
+  border: 1px solid black;
+}
+
+.topDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.Display{
+  width: 98%;
+  height: 50px;
+  background-color: aqua;
+  font-size: xx-large;
+}
+.button{
+  height: 100px;
+  width: 100px;
+  font-weight: bold;
+  font-size: xx-large;
+}
+.ButtonTopDiv{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.ButtonBotDiv{
+  height: 50px;
+  width: 200px;
+  font-weight: bold;
+  font-size: x-large;
+}
