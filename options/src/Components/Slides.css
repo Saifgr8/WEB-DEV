@@ -1,0 +1,20 @@
+.topDiv {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Card {
+  height: 500px;
+  width: 500px;
+  border: 1px solid black;
+}
+.button {
+  height: 50px;
+  width: 120px;
+  margin: 50px 20px;
+}
+.Text{
+    text-align: center;
+}
